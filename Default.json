@@ -1,0 +1,768 @@
+{
+    "antiaim": {
+        "align_fake": {
+            "value": false
+        },
+        "desync": {
+            "value": 1
+        },
+        "desync_amount": {
+            "value": 0.0
+        },
+        "desync_flip": {
+            "value": false
+        },
+        "enable": {
+            "value": false
+        },
+        "fake_duck": {
+            "value": false
+        },
+        "hide_shot": {
+            "value": false
+        },
+        "lower_body_cycle": {
+            "value": 0.0
+        },
+        "movement_mode": {
+            "value": 4
+        },
+        "pitch": {
+            "value": 1
+        },
+        "slow_walk": {
+            "value": false
+        },
+        "slowwalk_mode": {
+            "value": 2
+        },
+        "yaw": {
+            "value": 1
+        },
+        "yaw_modifier": {
+            "value": 1
+        },
+        "yaw_modifier_amount": {
+            "value": 0.0
+        },
+        "yaw_override": {
+            "value": 1
+        }
+    },
+    "fakelag": {
+        "lag_amount": {
+            "value": 0.0
+        },
+        "optimize_network": {
+            "value": false
+        },
+        "trigger": {
+            "value": 0
+        }
+    },
+    "legit": {
+        "aimbot": {
+            "0": {
+                "aimtime": {
+                    "value": 251.0
+                },
+                "backtrack": {
+                    "value": false
+                },
+                "backtrack_range": {
+                    "value": 0.0
+                },
+                "fov": {
+                    "value": 1.0
+                },
+                "hitbox": {
+                    "value": 0
+                },
+                "no_snap": {
+                    "value": true
+                },
+                "recoil_control": {
+                    "value": true
+                },
+                "recoil_control_x": {
+                    "value": 0.0
+                },
+                "recoil_control_y": {
+                    "value": 0.0
+                },
+                "silent_aim": {
+                    "value": true
+                },
+                "smokecheck": {
+                    "value": true
+                },
+                "smoothfactor": {
+                    "value": 1.0
+                }
+            }
+        },
+        "aimkey": {
+            "value": 0
+        },
+        "aimmode": {
+            "value": 2
+        },
+        "enable": {
+            "value": false
+        }
+    },
+    "local_visuals": {
+        "aa_indicator": {
+            "value": 0
+        },
+        "arms_chams_attachments": {
+            "value": {
+                "a": 230,
+                "b": 59,
+                "g": 59,
+                "r": 59
+            }
+        },
+        "arms_chams_mode": {
+            "value": 1
+        },
+        "arms_chams_primary": {
+            "value": {
+                "a": 175,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "arms_chams_secondary": {
+            "value": {
+                "a": 230,
+                "b": 48,
+                "g": 48,
+                "r": 30
+            }
+        },
+        "aspect": {
+            "value": 0.0
+        },
+        "aspect_changer": {
+            "value": false
+        },
+        "client_impacts": {
+            "value": {
+                "a": 150,
+                "b": 66,
+                "g": 99,
+                "r": 245
+            }
+        },
+        "clr_aa_desync": {
+            "value": {
+                "a": 255,
+                "b": 93,
+                "g": 203,
+                "r": 133
+            }
+        },
+        "clr_aa_real": {
+            "value": {
+                "a": 255,
+                "b": 66,
+                "g": 99,
+                "r": 245
+            }
+        },
+        "disable_post_processing": {
+            "value": false
+        },
+        "fake_chams_attachments": {
+            "value": {
+                "a": 150,
+                "b": 242,
+                "g": 132,
+                "r": 63
+            }
+        },
+        "fake_chams_mode": {
+            "value": 1
+        },
+        "fake_chams_primary": {
+            "value": {
+                "a": 175,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "fake_chams_secondary": {
+            "value": {
+                "a": 230,
+                "b": 48,
+                "g": 48,
+                "r": 30
+            }
+        },
+        "fov": {
+            "value": 0.0
+        },
+        "fov_changer": {
+            "value": false
+        },
+        "glow_local": {
+            "value": false
+        },
+        "hit_color": {
+            "value": {
+                "a": 130,
+                "b": 0,
+                "g": 255,
+                "r": 0
+            }
+        },
+        "hit_indicator": {
+            "value": 0
+        },
+        "hitmarker": {
+            "value": false
+        },
+        "impacts": {
+            "value": false
+        },
+        "local_chams_attachments": {
+            "value": {
+                "a": 150,
+                "b": 242,
+                "g": 132,
+                "r": 63
+            }
+        },
+        "local_chams_mode": {
+            "value": 1
+        },
+        "local_chams_primary": {
+            "value": {
+                "a": 175,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "local_chams_secondary": {
+            "value": {
+                "a": 230,
+                "b": 48,
+                "g": 48,
+                "r": 30
+            }
+        },
+        "local_color_glow": {
+            "value": {
+                "a": 255,
+                "b": 0,
+                "g": 255,
+                "r": 0
+            }
+        },
+        "night_mode": {
+            "value": false
+        },
+        "night_mode_color": {
+            "value": {
+                "a": 60,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            }
+        },
+        "night_mode_value": {
+            "value": 1.0
+        },
+        "server_impacts": {
+            "value": {
+                "a": 150,
+                "b": 242,
+                "g": 132,
+                "r": 63
+            }
+        },
+        "thirdperson": {
+            "value": false
+        },
+        "thirdperson_distance": {
+            "value": 50.0
+        },
+        "transparent_color": {
+            "value": {
+                "a": 255,
+                "b": 250,
+                "g": 80,
+                "r": 0
+            }
+        },
+        "transparent_props": {
+            "value": false
+        },
+        "weapon_chams_attachments": {
+            "value": {
+                "a": 230,
+                "b": 59,
+                "g": 59,
+                "r": 59
+            }
+        },
+        "weapon_chams_mode": {
+            "value": 1
+        },
+        "weapon_chams_primary": {
+            "value": {
+                "a": 150,
+                "b": 242,
+                "g": 132,
+                "r": 63
+            }
+        },
+        "weapon_chams_secondary": {
+            "value": {
+                "a": 230,
+                "b": 25,
+                "g": 35,
+                "r": 56
+            }
+        }
+    },
+    "lua": {
+        "input_toggle_key": {
+            "value": 36
+        }
+    },
+    "misc": {
+        "auto_accept": {
+            "value": false
+        },
+        "autostrafe": {
+            "value": 1
+        },
+        "bhop": {
+            "value": false
+        },
+        "clantag_changer": {
+            "value": false
+        },
+        "event_triggers": {
+            "value": 0
+        },
+        "eventlog": {
+            "value": 0
+        },
+        "menu_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 120,
+                "r": 0
+            }
+        },
+        "penetration_crosshair": {
+            "value": false
+        },
+        "preserve_killfeed": {
+            "value": false
+        },
+        "reveal_ranks": {
+            "value": false
+        },
+        "taser_range": {
+            "value": false
+        }
+    },
+    "player_esp": {
+        "apply_on_death": {
+            "value": false
+        },
+        "enemy": {
+            "value": 0
+        },
+        "enemy_chams_attachments": {
+            "value": {
+                "a": 170,
+                "b": 33,
+                "g": 33,
+                "r": 33
+            }
+        },
+        "enemy_chams_mode": {
+            "value": 1
+        },
+        "enemy_chams_primary": {
+            "value": {
+                "a": 125,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "enemy_chams_secondary": {
+            "value": {
+                "a": 250,
+                "b": 59,
+                "g": 59,
+                "r": 59
+            }
+        },
+        "enemy_chams_visible_attachments": {
+            "value": {
+                "a": 170,
+                "b": 33,
+                "g": 33,
+                "r": 33
+            }
+        },
+        "enemy_chams_visible_mode": {
+            "value": 1
+        },
+        "enemy_chams_visible_primary": {
+            "value": {
+                "a": 125,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "enemy_chams_visible_secondary": {
+            "value": {
+                "a": 250,
+                "b": 59,
+                "g": 59,
+                "r": 59
+            }
+        },
+        "enemy_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "enemy_color_glow": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 0,
+                "r": 255
+            }
+        },
+        "enemy_color_glow_visible": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 0,
+                "r": 255
+            }
+        },
+        "enemy_color_visible": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "glow_enemy": {
+            "value": false
+        },
+        "glow_team": {
+            "value": false
+        },
+        "legit_esp": {
+            "value": false
+        },
+        "legit_triggers": {
+            "value": 0
+        },
+        "offscreen_esp": {
+            "value": false
+        },
+        "offscreen_radius": {
+            "value": 150.0
+        },
+        "prefer_icons": {
+            "value": false
+        },
+        "team": {
+            "value": 0
+        },
+        "team_chams_attachments": {
+            "value": {
+                "a": 125,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "team_chams_mode": {
+            "value": 1
+        },
+        "team_chams_primary": {
+            "value": {
+                "a": 250,
+                "b": 33,
+                "g": 33,
+                "r": 33
+            }
+        },
+        "team_chams_secondary": {
+            "value": {
+                "a": 250,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "team_chams_visible_attachments": {
+            "value": {
+                "a": 125,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "team_chams_visible_mode": {
+            "value": 1
+        },
+        "team_chams_visible_primary": {
+            "value": {
+                "a": 250,
+                "b": 33,
+                "g": 33,
+                "r": 33
+            }
+        },
+        "team_chams_visible_secondary": {
+            "value": {
+                "a": 250,
+                "b": 250,
+                "g": 250,
+                "r": 250
+            }
+        },
+        "team_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "team_color_glow": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "team_color_glow_visible": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "team_color_visible": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "vis_check": {
+            "value": false
+        }
+    },
+    "rage": {
+        "aimbot": {
+            "0": {
+                "dynamic_min_dmg": {
+                    "value": false
+                },
+                "hitbox": {
+                    "value": 0
+                },
+                "hitchance_value": {
+                    "value": 0.0
+                },
+                "min_dmg": {
+                    "value": 0.0
+                },
+                "multipoint": {
+                    "value": 0
+                },
+                "scale_body": {
+                    "value": 0.0
+                },
+                "scale_head": {
+                    "value": 0.0
+                },
+                "secure_point": {
+                    "value": 1
+                }
+            }
+        },
+        "auto_crouch": {
+            "value": false
+        },
+        "auto_shoot": {
+            "value": false
+        },
+        "auto_stop": {
+            "value": false
+        },
+        "enable": {
+            "value": false
+        },
+        "enable_fast_fire": {
+            "value": false
+        },
+        "fast_fire": {
+            "value": 2
+        },
+        "fov": {
+            "value": 0.0
+        }
+    },
+    "removals": {
+        "no_flash": {
+            "value": false
+        },
+        "no_scope": {
+            "value": false
+        },
+        "no_smoke": {
+            "value": false
+        },
+        "no_visual_recoil": {
+            "value": false
+        }
+    },
+    "triggerbot": {
+        "enable": {
+            "value": false
+        },
+        "key": {
+            "value": 0
+        },
+        "mode": {
+            "value": 1
+        },
+        "triggerbot": {
+            "0": {
+                "afterburst": {
+                    "value": 0.0
+                },
+                "backtrack": {
+                    "value": false
+                },
+                "backtrack_range": {
+                    "value": 0.0
+                },
+                "delay": {
+                    "value": 0.0
+                },
+                "hitbox": {
+                    "value": 0
+                },
+                "ignore_flash_local": {
+                    "value": false
+                },
+                "ignore_jump_enemy": {
+                    "value": false
+                },
+                "ignore_jump_local": {
+                    "value": false
+                },
+                "magnet": {
+                    "value": false
+                },
+                "smokecheck": {
+                    "value": false
+                }
+            }
+        }
+    },
+    "world_esp": {
+        "chicken": {
+            "value": 0
+        },
+        "chicken_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "fire_color": {
+            "value": {
+                "a": 255,
+                "b": 66,
+                "g": 99,
+                "r": 245
+            }
+        },
+        "flash_color": {
+            "value": {
+                "a": 255,
+                "b": 60,
+                "g": 225,
+                "r": 255
+            }
+        },
+        "nade_path_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "nades": {
+            "value": 0
+        },
+        "objective": {
+            "value": 0
+        },
+        "objective_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "smoke_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "visualize_nade_path": {
+            "value": false
+        },
+        "weapon": {
+            "value": 0
+        },
+        "weapon_color": {
+            "value": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        }
+    }
+}
