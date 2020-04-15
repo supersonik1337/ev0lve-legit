@@ -1,16 +1,16 @@
-# ev0lve-legit-repo
+# ev0lve-v4-config-repo
 #
 #
 #
-# this repo contains configs for the upcoming ev0lve legit cheat
+# this repo contains configs for the v4 ev0lve cheat
 #
 #
 #
-# chams_vis_ab_tb
-# contains settings for triggerbot (pistols and snipers);
-# aimbot (all weapon groups are set) 
-# and visual assistance with chams visible only
+# legit = work in progress because old got deleted
+# strong = strong legit config (not ow safe probably)
+# scout = allround config + scout is optimized
+# test = allround config work in progress
 #
-#
+#date 15-04-2020
 #
 # more configs coming soon
